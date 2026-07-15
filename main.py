@@ -20,4 +20,4 @@ if __name__ == "__main__":
     elif choice == "2":
         run_game()
     else:
-        print("เลือกไม่ถูกต้อง")1
+        print("เลือกไม่ถูกต้อง")
